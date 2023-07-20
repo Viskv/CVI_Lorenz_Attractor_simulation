@@ -25,8 +25,7 @@ In this work a GUI is produced using CVI software, inside you will find:
   
   •	The ability to enter initial conditions.
   
-  •	The option to view the relationship between the positions of the two simulations + 
-  markers and indicators for the selected point on the graph and the option to display the logarithms of the X-axis.
+  •	The option to view the relationship between the positions of the two simulations + markers and indicators for the selected point on the graph and the option to display the logarithms of the X-axis.
   
   •	The calculation of the phenomenon is performed interactively.
   
